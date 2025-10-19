@@ -1,4 +1,4 @@
 {
-  "settingPass": "4368616d6f6461403037",
+  "settingPass": "31323334",
   "ownerNumber": "94760564246"
 }
